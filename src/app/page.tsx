@@ -113,7 +113,7 @@ export default function Home() {
               「AI社員」は、職種ごとに最適化されたAIに、人間の社員と同じようにチャットで仕事を依頼できるサービスです。
             </p>
             <p className="mt-4 leading-relaxed text-slate-600">
-              採用や教育にかかる時間とコストをかけずに、営業資料の作成、SNS運用、コードレビューといった実務をその場で任せられます。雇用関係の縛りもなく、必要に応じて随時AI社員を追加・削除できます。
+              採用や教育にかかる時間とコストをかけずに、営業資料の作成、SNS運用、コードレビューといった実務をその場で任せられます。雇用するAI社員は1人でも、10人でも、必要な分だけ増やせます。
             </p>
           </div>
           <div className="rounded-2xl border border-slate-200 bg-slate-50 p-6">
